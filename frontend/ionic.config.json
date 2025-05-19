@@ -1,0 +1,7 @@
+{
+  "name": "proyecto-final-dspm",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
