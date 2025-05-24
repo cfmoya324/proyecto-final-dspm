@@ -1,0 +1,180 @@
+{
+    "nombre": "Barranquilla",
+    "pais": "Colombia",
+    "imagen": "https://zonacero.com/sites/default/files/2022/9/26/fotos/aduana_-_mural_simbologia_de_barranquilla_-_carlos_parra.jpg",
+    "descripcion": "Ciudad caribeña conocida por su vibrante Carnaval, que es Patrimonio de la Humanidad. Barranquilla es también un importante puerto industrial y comercial de Colombia."
+}
+{
+    "nombre": "Santa Marta",
+    "pais": "Colombia",
+    "imagen": "https://images.ctfassets.net/bth3mlrehms2/238vO0bddX3nHav5DBfrhE/5d46138ecc02403d33dcd3029c995d8b/Santa_Marta_Kolumbien.jpg?w=2121&h=1414&fl=progressive&q=50&fm=jpg",
+    "descripcion": "Fundada en 1525, es la ciudad más antigua de Colombia y un destino turístico clave por sus playas y cercanía al Parque Nacional Natural Tayrona."
+}
+{
+    "nombre": "Aracataca",
+    "pais": "Colombia",
+    "imagen": "https://www.fodors.com/wp-content/uploads/2023/04/HERO_100YearsOfSolitude_Aracatacas_church_where_Garcia_Marquez_was_baptized-1600x1067.jpg",
+    "descripcion": "Este pequeño pueblo es famoso por ser el lugar de nacimiento de Gabriel García Márquez, el Nobel de Literatura. La ciudad transmite el mágico realismo de su obra."
+}
+{
+    "nombre": "Medellín",
+    "pais": "Colombia",
+    "imagen": "https://i.natgeofe.com/n/c5f625f7-a459-4afb-85c6-673224306569/downtown-medellin-colombia.jpg?w=2880&h=1912",
+    "descripcion": "Conocida como la 'Ciudad de la Eterna Primavera', Medellín es famosa por su clima templado, su innovación y su transformación urbana."
+}
+{
+    "nombre": "Cúcuta",
+    "pais": "Colombia",
+    "imagen": "https://cucutanuestra.com/imagenes/lugares/templo-historico-villa-del-rosrio.jpg",
+    "descripcion": "Ubicada en la frontera con Venezuela, Cúcuta es una ciudad de tránsito comercial importante, conocida por su comercio y la calidez de su gente."
+}
+{
+    "nombre": "Carolina del Príncipe",
+    "pais": "Colombia",
+    "imagen": "https://telemedellin.tv/wp-content/uploads/2022/06/carolinadelrpincipe.jpg",
+    "descripcion": "Un pequeño municipio de Antioquia, famoso por su paisaje montañoso y su conexión con la cultura paisa. Es también la ciudad natal del cantante Juanes."
+}
+{
+    "nombre": "Cali",
+    "pais": "Colombia",
+    "imagen": "https://www.uao.edu.co/wp-content/uploads/2020/05/mision-vision-745x410@2x.jpg",
+    "descripcion": "Capital de la salsa, Cali es conocida por su ritmo y su alegría. Es una de las principales ciudades industriales y culturales del Valle del Cauca. Es principalmente conocida y visitada por ser en donde se encuentra la universidad Autónoma de Occidente."
+}
+{
+    "nombre": "Bogotá",
+    "pais": "Colombia",
+    "imagen": "https://wallpaperbat.com/img/638769-download-wallpaper-bogota-cityscape-colombian-capital-metropolis-evening-sunset-colombia-for-desktop-with-resolution-2880x1800-high-quality-hd-picture-wallpaper.jpg",
+    "descripcion": "La capital de Colombia, ubicada en el altiplano andino, es el centro político, económico y cultural del país, con una rica historia colonial."
+}
+{
+    "nombre": "Popayán",
+    "pais": "Colombia",
+    "imagen": "https://www.absolutviajes.com/wp-content/uploads/2020/11/colombia-3621359_1920.jpg",
+    "descripcion": "Conocida como la 'Ciudad Blanca' por sus edificios coloniales bien conservados, Popayán es un importante centro histórico y religioso en el suroeste del país."
+}
+{
+    "nombre": "Pasto",
+    "pais": "Colombia",
+    "imagen": "https://theculturetrip.com/wp-content/uploads/2018/01/064edit.jpg",
+    "descripcion": "En el sur de Colombia, Pasto destaca por su impresionante paisaje montañoso y por ser la sede del famoso Carnaval de Negros y Blancos, declarado Patrimonio Cultural de la Humanidad."
+}
+{
+    "nombre": "Montevideo",
+    "pais": "Uruguay",
+    "imagen": "https://www.costacruceros.es/content/dam/costa/costa-magazine/articles-magazine/travel/que-ver-montevideo/independencia-square-centre-1206116094_m.jpg.image.694.390.low.jpg",
+    "descripcion": "La capital y ciudad más grande de Uruguay, ubicada a orillas del Río de la Plata, es conocida por su vibrante vida cultural, sus playas y su arquitectura colonial y moderna."
+}
+{
+    "nombre": "Salto",
+    "pais": "Uruguay",
+    "imagen": "https://www.impo.com.uy/revista/wp-content/uploads/2017/02/salto_turismo.jpg",
+    "descripcion": "Ciudad ubicada en el norte de Uruguay, es famosa por sus termas y el río Uruguay, que ofrece espectaculares vistas y actividades al aire libre. Es conocido que la ciudad está enemistada con Salta, Argentina."
+}
+{
+    "nombre": "Paysandú",
+    "pais": "Uruguay",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/8/89/BasilicaPaysandu.jpg",
+    "descripcion": "Fundada en el siglo XIX, es conocida por su importancia histórica y su industria, especialmente la producción de papel y celulosa, y por sus festivales de verano."
+}
+{
+    "nombre": "Maldonado",
+    "pais": "Uruguay",
+    "imagen": "https://img.viajeauruguay.com/maldonado(1).jpg",
+    "descripcion": "Situada cerca de Punta del Este, Maldonado es famosa por su rica historia colonial y su proximidad a las famosas playas y balnearios del este uruguayo."
+}
+{
+    "nombre": "Canelones",
+    "pais": "Uruguay",
+    "imagen": "https://uruguaynatural.com/wp-content/uploads/2023/06/Plaza-de-Canelones.jpg",
+    "descripcion": "Conocida por su industria vitivinícola y por ser el hogar de la famosa región vinícola de Uruguay, Canelones también es famosa por sus hermosos paisajes rurales."
+}
+{
+    "nombre": "Tacuarembó",
+    "pais": "Uruguay",
+    "imagen": "https://unmateparaelmundo.wordpress.com/wp-content/uploads/2017/02/catedral2.jpg?w=768",
+    "descripcion": "Ciudad en el centro del país, famosa por ser el lugar de nacimiento de los gauchos y por su folklore, especialmente el Carnaval de Tacuarembó."
+}
+{
+    "nombre": "Colonia del Sacramento",
+    "pais": "Uruguay",
+    "imagen": "https://www.surfingtheplanet.com/wp-content/uploads/2012/04/DSC4945.jpg",
+    "descripcion": "Patrimonio de la Humanidad, esta ciudad histórica, fundada por los portugueses en 1680, es famosa por su casco antiguo bien conservado y sus calles empedradas."
+}
+{
+    "nombre": "Durazno",
+    "pais": "Uruguay",
+    "imagen": "https://img.viajeauruguay.com/durazno-plaza.jpg",
+    "descripcion": "Ciudad ubicada en el centro de Uruguay, conocida por su ambiente tranquilo, su arquitectura colonial y por ser un importante centro agrícola."
+}
+{
+    "nombre": "Rio Branco",
+    "pais": "Uruguay",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/6/66/Ponte_rio_branco%2C_fronteira_Jaguar%C3%A3o-1.jpg",
+    "descripcion": "Pequeña ciudad fronteriza ubicada al noreste, conocida por su conexión con Brasil y su importante actividad comercial en la región."
+}
+{
+    "nombre": "La Paloma",
+    "pais": "Uruguay",
+    "imagen": "https://marcapaisuruguay.gub.uy/wp-content/uploads/2021/01/la-paloma-2.jpg",
+    "descripcion": "Localizada en la costa atlántica, es famosa por su hermoso faro, sus playas tranquilas y su ambiente relajado, ideal para los amantes de la naturaleza y la pesca."
+}
+{
+    "nombre": "Buenos Aires",
+    "pais": "Argentina",
+    "imagen": "https://fotos.perfil.com/2022/07/14/trim/1280/720/ciudad-de-buenos-aires-1386884.jpg",
+    "descripcion": "La capital y ciudad más grande de Argentina, conocida por su arquitectura europea, su rica vida cultural y su vibrante escena de tango y música."
+}
+{
+    "nombre": "Córdoba",
+    "pais": "Argentina",
+    "imagen": "https://turismo.cordoba.gob.ar/wp-content/uploads/2021/07/dsdsd-scaled-e1677342686741-1110x624.jpg",
+    "descripcion": "Una de las ciudades más históricas del país, famosa por su arquitectura colonial, su universidad y su cercanía a las sierras, que la convierte en un destino turístico popular."
+}
+{
+    "nombre": "Rosario",
+    "pais": "Argentina",
+    "imagen": "https://cloudfront-us-east-1.images.arcpublishing.com/elespectador/V4MVEOVAH5CZBIUAPEKRILILZE.jpg",
+    "descripcion": "Importante puerto fluvial sobre el río Paraná, conocida por ser la cuna del bandera nacional argentina y por su vibrante escena artística y cultural."
+}
+{
+    "nombre": "Mendoza",
+    "pais": "Argentina",
+    "imagen": "https://www.cideu.org/wp-content/uploads/2019/12/mendoza-1-1.jpg",
+    "descripcion": "Capital de la región vitivinícola de Argentina, famosa por sus bodegas y su proximidad a la Cordillera de los Andes, ideal para los amantes del vino y el trekking."
+}
+{
+    "nombre": "Tucumán",
+    "pais": "Argentina",
+    "imagen": "https://pohcdn.com/sites/default/files/styles/node__blog_post__bp_banner/public/live_banner/San-Miguel-de-Tucuman.jpg",
+    "descripcion": "En el noroeste argentino, esta ciudad es conocida por ser el lugar donde se declaró la independencia de Argentina en 1816, además de su rica herencia cultural."
+}
+{
+    "nombre": "La Plata",
+    "pais": "Argentina",
+    "imagen": "https://intriper.com/wp-content/uploads/elementor/thumbs/LA-PLATA-2-e1479401230222-qxc5dlivmivpxisw5qwk30050wry2f1kwgxo4z7lp0.jpg",
+    "descripcion": "Ciudad planificada y capital de la provincia de Buenos Aires, conocida por su imponente arquitectura neogótica, como la Catedral de La Plata, y su vibrante vida académica."
+}
+{
+    "nombre": "Mar del Plata",
+    "pais": "Argentina",
+    "imagen": "https://www.rionegro.com.ar/wp-content/uploads/2024/10/mardel1.jpg",
+    "descripcion": "Principal destino turístico de playa de Argentina, famosa por sus amplias playas atlánticas, su vida nocturna y el festival internacional de cine."
+}
+{
+    "nombre": "Salta",
+    "pais": "Argentina",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/9/91/Catedral_de_Salta_Capital.JPG",
+    "descripcion": "Conocida como la 'Salta la Linda' por su belleza natural y arquitectura colonial, esta ciudad del noroeste argentino es un centro cultural y turístico importante. Es conocido que la ciudad está enemistada con Salto, Uruguay."
+}
+{
+    "nombre": "San Juan",
+    "pais": "Argentina",
+    "imagen": "https://cms.municipiosanjuan.gob.ar/uploads/homemovile_seccion1_foto1_777b303e9c.webp",
+    "descripcion": "Ciudad ubicada en el oeste del país, famosa por su producción de vino, su cercanía al Valle de la Luna, y su importante rol en la minería y la agricultura."
+}
+{
+    "nombre": "Neuquén",
+    "pais": "Argentina",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/e/e3/San_Mart%C3%ADn_monument_%28cropped%29.jpg",
+    "descripcion": "Capital de la provincia del mismo nombre, famosa por su proximidad a la Patagonia, su riqueza en recursos naturales y su creciente desarrollo en el sector energético y petrolero."
+}
