@@ -1,0 +1,302 @@
+[
+  {
+    "nombre": "Barranquilla",
+    "pais": "Colombia",
+    "Personaje": {
+      "nombre": "Shakira",
+      "imagen":"https://media.glamour.mx/photos/67ae1fbfbf2575099e5eefae/16:9/w_2560%2Cc_limit/Shakira%2520(13).png",
+      "profesion": "Cantante",
+      "descripcion": "Shakira es una de las artistas más exitosas y conocidas internacionalmente, nacida en Barranquilla, famosa por su estilo musical único que fusiona pop, rock y música latina."
+    }
+  },
+  {
+    "nombre": "Santa Marta",
+    "pais": "Colombia",
+    "Personaje": {
+      "nombre": "Carlos Vives",
+      "imagen":"https://d1bxnw4yi2rcwu.cloudfront.net/uploads/images/Musicians/_992x1240_crop_center-center_82_line/Carlos-Vives-Portrait.png",
+      "profesion": "Cantante",
+      "descripcion": "Carlos Vives es un cantante y compositor, nacido en Santa Marta, que ha sido reconocido por revivir el vallenato y por su contribución a la música colombiana."
+    }
+  },
+  {
+    "nombre": "Aracataca",
+    "pais": "Colombia",
+    "Personaje": {
+      "nombre": "Gabriel García Márquez",
+      "imagen":"https://mir-s3-cdn-cf.behance.net/project_modules/hd/ea06d916332247.562aa1ad283e5.jpg",
+      "profesion": "Escritor",
+      "descripcion": "Gabriel García Márquez, nacido en Aracataca, es uno de los escritores más célebres de América Latina, conocido por su obra 'Cien años de soledad', que marcó el auge del realismo mágico."
+    }
+  },
+  {
+    "nombre": "Medellín",
+    "pais": "Colombia",
+    "Personaje": {
+      "nombre": "J Balvin",
+      "imagen":"https://upload.wikimedia.org/wikipedia/commons/0/0c/J_Balvin%2C_Noisey_Meets%3B_Oct_2018.jpg",
+      "profesion": "Cantante",
+      "descripcion": "Juanes, nacido en Medellín, es un cantante, compositor y músico, Personaje por su fusión de rock y música latina. Ha ganado múltiples premios Grammy y Latin Grammy."
+    }
+  },
+  {
+    "nombre": "Cúcuta",
+    "pais": "Colombia",
+    "Personaje": {
+      "nombre": "Wilfrido Vargas",
+      "imagen":"https://lamiaestereo.com/wp-content/uploads/wilfridovargas.jpg",
+      "profesion": "Cantante",
+      "descripcion": "Wilfrido Vargas, nacido en Cúcuta, es un reconocido músico y cantante de salsa, muy Personaje en América Latina durante las décadas de los 80 y 90."
+    }
+  },
+  {
+    "nombre": "Carolina del Príncipe",
+    "pais": "Colombia",
+    "Personaje": {
+      "nombre": "Juanes", 
+      "imagen":"https://media.diariolasamericas.com/p/371d71cde47d6fc496072835098f6541/adjuntos/216/imagenes/001/106/0001106477/855x0/smart/juanessjpg.jpg",
+      "profesion": "Cantante",
+      "descripcion": "Juanes, nacido en Carolina del Príncipe, es uno de los artistas más importantes de la música latina, conocido por su estilo único que fusiona rock y música popular colombiana."
+    }
+  },
+  {
+    "nombre": "Cali",
+    "pais": "Colombia",
+    "Personaje": {
+      "nombre": "Calixto Ochoa",
+      "imagen":"https://panoramacultural.com.co/media/images/articulos/2021/04/27054449.jpg",
+      "profesion": "Cantante",
+      "descripcion": "Calixto Ochoa, nacido en Cali, es uno de los más grandes exponentes del género musical de la salsa, destacándose como uno de los íconos de la música tropical."
+    }
+  },
+  {
+    "nombre": "Bogotá",
+    "pais": "Colombia",
+    "Personaje": {
+      "nombre": "Fernando Botero",
+      "imagen":"https://www.singulart.com/blog/wp-content/uploads/2024/02/Fernando-Botero-1024x1024.jpg",
+      "profesion": "Artista plástico",
+      "descripcion": "Fernando Botero, nacido en Bogotá, es un artista internacionalmente Personaje por su estilo único de pintura y escultura, caracterizado por la exageración de las proporciones humanas."
+    }
+  },
+  {
+    "nombre": "Popayán",
+    "pais": "Colombia",
+    "Personaje": {
+      "nombre": "Juan del Corral",
+      "imagen":"https://www.santafedeantioquia.com.co/wp-content/uploads/2020/07/juan-del-corral.jpg",
+      "profesion": "Político",
+      "descripcion": "Juan del Corral, nacido en Popayán, fue uno de los primeros líderes políticos de la independencia de Colombia, desempeñando un papel fundamental en el proceso de liberación del país."
+    }
+  },
+  {
+    "nombre": "Pasto",
+    "pais": "Colombia",
+    "Personaje": {
+      "nombre": "Adriana Santacruz",
+      "imagen":"https://cloudfront-us-east-1.images.arcpublishing.com/semana/AJFYXVVNBNAQHHAQPKUKEGDDPY.jpg",
+      "profesion": "Artista de Modas",
+      "descripcion": "Adriana Santacruz, diseñadora de modas nacida en Pasto – Colombia, quien ha edificado su nombre y línea de moda construyendo empresa sobre la base del rescate de uno de los oficios más ancestrales de la humanidad"
+    }
+  },
+  {
+    "nombre": "Montevideo",
+    "pais": "Uruguay",
+    "Personaje": {
+      "nombre": "Luis Suárez",
+      "imagen":"https://elasticbeanstalk-us-east-1-911267631614.s3.amazonaws.com/imagenes/jugadores/SUAREZ%20LUIS%20(2).jpg",
+      "profesion": "Futbolista",
+      "descripcion": "Luis Suárez, nacido en Montevideo, es un futbolista uruguayo reconocido como uno de los mejores delanteros de la historia del fútbol, habiendo jugado en equipos como el Barcelona y la selección de Uruguay."
+    }
+  },
+  {
+    "nombre": "Salto",
+    "pais": "Uruguay",
+    "Personaje": {
+      "nombre": "Carlos Gardel",
+      "imagen":"https://1.bp.blogspot.com/_bMRTF0VrfaU/TCNroFYXYZI/AAAAAAAACdg/Rve_rCRouUo/s1600/Gardel_color.jpg",
+      "profesion": "Cantante",
+      "descripcion": "Carlos Gardel, nacido en Salto, es uno de los cantantes más célebres de tango, siendo una figura icónica del tango en Argentina y Uruguay."
+    }
+  },
+  {
+    "nombre": "Paysandú",
+    "pais": "Uruguay",
+    "Personaje": {
+      "nombre": "Horacio Quiroga",
+      "imagen":"https://literatura.tv/wp-content/uploads/2024/04/Horacio-Quiroga-color-literaturatv-1.png",
+      "profesion": "Escritor",
+      "descripcion": "Horacio Quiroga, nacido en Paysandú, es un escritor conocido por sus relatos cortos de terror y suspenso, que reflejan el paisaje y la naturaleza uruguaya."
+    }
+  },
+  {
+    "nombre": "Maldonado",
+    "pais": "Uruguay",
+    "Personaje": {
+      "nombre": "José Enrique Rodó",
+      "imagen":"https://www.cervantesvirtual.com/images/portales/jose_enrique_rodo/graf/biografia/01_bib_retrato_jose_enrique_rodo_1913_t.jpg",
+      "profesion": "Filósofo",
+      "descripcion": "José Enrique Rodó, nacido en Maldonado, fue un escritor y filósofo uruguayo, Personaje por su obra 'Ariel', en la que reflexionaba sobre la juventud y el destino de América Latina."
+    }
+  },
+  {
+    "nombre": "Canelones",
+    "pais": "Uruguay",
+    "Personaje": {
+      "nombre": "Eduardo Galeano",
+      "imagen":"https://www.cultura.gob.ar/media/uploads/eduardo-galeano_foto-revista-libero.jpg",
+      "profesion": "Escritor",
+      "descripcion": "Eduardo Galeano, nacido en Canelones, es conocido por su obra literaria que abarca temas como la historia, la política y las injusticias sociales, especialmente en su famosa obra 'Las venas abiertas de América Latina'."
+    }
+  },
+  {
+    "nombre": "Tacuarembó",
+    "pais": "Uruguay",
+    "Personaje": {
+      "nombre": "Carlos Molina",
+      "imagen":"https://brecha.com.uy/wp-content/uploads/2017/07/18-Carlos-Molina-en-1994-Foto-NANCY-URRUTIA-Archivo-Brecha.jpg",
+      "profesion": "Cantante",
+      "descripcion": "Carlos Molina, nacido en Tacuarembó, es un cantante uruguayo conocido por su aporte al folklore y la música popular de Uruguay."
+    }
+  },
+  {
+    "nombre": "Colonia del Sacramento",
+    "pais": "Uruguay",
+    "Personaje": {
+      "nombre": "Eduardo Acevedo Díaz",
+      "imagen":"https://grupormultimedio.com/wp-content/uploads/2025/04/Eduardo-Acevedo-Diaz.jpg",
+      "profesion": "Escritor",
+      "descripcion": "Eduardo Acevedo Díaz, nacido en Colonia del Sacramento, fue un destacado escritor y periodista uruguayo, conocido por su defensa de la cultura y la historia de Uruguay."
+    }
+  },
+  {
+    "nombre": "Durazno",
+    "pais": "Uruguay",
+    "Personaje": {
+      "nombre": "José Batlle y Ordóñez",
+      "imagen":"https://sp-ao.shortpixel.ai/client/to_auto,q_glossy,ret_img,w_1920,h_1920/https://relatocompol.com/wp-content/uploads/2023/07/FotoNotaFelipe-SchipaniRelato7-scaled.jpg",
+      "profesion": "Político",
+      "descripcion": "José Batlle y Ordóñez, nacido en Durazno, fue presidente de Uruguay en dos períodos, siendo clave en la consolidación del Estado moderno y la implementación de políticas progresistas."
+    }
+  },
+  {
+    "nombre": "Rio Branco",
+    "pais": "Uruguay",
+    "Personaje": {
+      "nombre": "Raúl Sendic",
+      "imagen":"https://upload.wikimedia.org/wikipedia/commons/d/d2/Ra%C3%BAl_Fernando_Sendic.jpg",
+      "profesion": "Político",
+      "descripcion": "Raúl Sendic, nacido en Rio Branco, fue un importante político y líder social uruguayo, conocido por su participación en la lucha contra las dictaduras militares y por sus contribuciones al sector agrícola y cooperativista."
+    }
+  },
+  {
+    "nombre": "La Paloma",
+    "pais": "Uruguay",
+    "Personaje": {
+      "nombre": "Fernando Cabrera",
+      "imagen":"https://www.espectaculosdeaca.com.ar/wp-content/uploads/2020/01/FERNANDO-800x500_c.jpg",
+      "profesion": "Cantante",
+      "descripcion": "Fernando Cabrera, nacido en La Paloma, es un cantante y compositor uruguayo reconocido por su estilo único que mezcla folklore, pop y música popular uruguaya."
+    }
+  },
+  {
+    "nombre": "Buenos Aires",
+    "pais": "Argentina",
+    "Personaje": {
+      "nombre": "Lionel Messi",
+      "imagen":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Lionel-Messi-Argentina-2022-FIFA-World-Cup_%28cropped%29.jpg/250px-Lionel-Messi-Argentina-2022-FIFA-World-Cup_%28cropped%29.jpg",
+      "profesion": "Futbolista",
+      "descripcion": "Lionel Messi, nacido en Rosario, Buenos Aires, es considerado uno de los mejores futbolistas de todos los tiempos, con una exitosa carrera en el FC Barcelona y la selección de Argentina."
+    }
+  },
+  {
+    "nombre": "Córdoba",
+    "pais": "Argentina",
+    "Personaje": {
+      "nombre": "Carlos Menem",
+      "imagen":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Menem_con_banda_presidencial.jpg/1200px-Menem_con_banda_presidencial.jpg",
+      "profesion": "Político",
+      "descripcion": "Carlos Menem, nacido en Córdoba, fue presidente de Argentina y desempeñó un papel crucial en la implementación de reformas económicas en los años 90."
+    }
+  },
+  {
+    "nombre": "Rosario",
+    "pais": "Argentina",
+    "Personaje": {
+      "nombre": "Che Guevara",
+      "imagen":"https://www.radiohc.cu/articles/1300-che-korda.jpg",
+      "profesion": "Revolucionario",
+      "descripcion": "Ernesto 'Che' Guevara, nacido en Rosario, es conocido por su papel en la Revolución Cubana y por ser uno de los íconos más Personajes de la lucha revolucionaria del siglo XX."
+    }
+  },
+  {
+    "nombre": "Mendoza",
+    "pais": "Argentina",
+    "Personaje": {
+      "nombre": "José de San Martín",
+      "imagen":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Jose_San_Martin_1.JPG/250px-Jose_San_Martin_1.JPG",
+      "profesion": "Libertador",
+      "descripcion": "José de San Martín, nacido en Mendoza, fue un líder clave en las guerras de independencia de Argentina, Chile y Perú, y es considerado un héroe nacional."
+    }
+  },
+  {
+    "nombre": "Tucumán",
+    "pais": "Argentina",
+    "Personaje": {
+      "nombre": "Mercedes Sosa",
+      "imagen":"https://www.clarin.com/2019/10/03/ObwJhj6j_1200x0__1.jpg",
+      "profesion": "Cantante",
+      "descripcion": "Mercedes Sosa, nacida en Tucumán, fue una de las más grandes cantantes de folk y música popular de Argentina, conocida por su voz profunda y conmovedora."
+    }
+  },
+  {
+    "nombre": "La Plata",
+    "pais": "Argentina",
+    "personaje": {
+      "nombre": "Enrique Santos Discépolo",
+      "imagen":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Enrique_Santos_Disc%C3%A9polo_por_Annemarie_Heinrich.jpg/640px-Enrique_Santos_Disc%C3%A9polo_por_Annemarie_Heinrich.jpg",
+      "profesion": "Compositor",
+      "descripcion": "Enrique Santos Discépolo, nacido en La Plata, fue uno de los más importantes compositores de tango en Argentina, conocido por su estilo único y su crítica social."
+    }
+  },
+  {
+    "nombre": "Mar del Plata",
+    "pais": "Argentina",
+    "personaje": {
+      "nombre": "Diego Maradona",
+      "imagen":"https://www.ligaprofesional.ar/wp-content/uploads/2020/11/1-maradona-copa.jpg",
+      "profesion": "Futbolista",
+      "descripcion": "Diego Maradona, nacido en Villa Fiorito cerca de Mar del Plata, es considerado uno de los más grandes futbolistas de todos los tiempos, Personaje por su papel en la Copa del Mundo de 1986."
+    }
+  },
+  {
+    "nombre": "Salta",
+    "pais": "Argentina",
+    "personaje": {
+      "nombre": "Gustavo Cerati",
+      "imagen":"https://miro.medium.com/v2/resize:fit:1000/1*SX_9KXoBpgnz4y0iDXd-6Q.jpeg",
+      "profesion": "Músico",
+      "descripcion": "Gustavo Cerati, nacido en Salta, fue uno de los músicos más importantes de la música rock en Argentina, conocido por su trabajo como solista y como líder de la banda Soda Stereo."
+    }
+  },
+  {
+    "nombre": "San Juan",
+    "pais": "Argentina",
+    "personaje": {
+      "nombre": "Carlos Bianchi",
+      "imagen":"https://poramoralfutbol.home.blog/wp-content/uploads/2019/04/bianchi-1.jpg",
+      "profesion": "Futbolista",
+      "descripcion": "Carlos Bianchi, nacido en San Juan, es uno de los entrenadores más exitosos del fútbol argentino, conocido por su éxito con Boca Juniors."
+    }
+  },
+  {
+    "nombre": "Neuquén",
+    "pais": "Argentina",
+    "peronaje": {
+      "nombre": "Néstor Kirchner",
+      "imagen":"https://abi.bo/images/Noticias/Deportes/jul-22/flaco_1.jpeg",
+      "profesion": "Político",
+      "descripcion": "Néstor Kirchner, nacido en Neuquén, fue presidente de Argentina y uno de los líderes políticos más influyentes del país durante los primeros años del siglo XXI."
+    }
+  }
+]
