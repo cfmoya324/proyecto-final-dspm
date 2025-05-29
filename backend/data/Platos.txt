@@ -1,0 +1,242 @@
+[
+  {
+    "nombre": "Barranquilla",
+    "pais": "Colombia",
+    "plato": {
+      "nombre": "Arepa de Huevo",
+      "descripcion": "Una arepa frita rellena con huevo, popular en la costa Caribe colombiana, especialmente en Barranquilla."
+    }
+  },
+  {
+    "nombre": "Santa Marta",
+    "pais": "Colombia",
+    "plato": {
+      "nombre": "Arroz con Coco",
+      "descripcion": "Un arroz cocido con leche de coco, común en la región caribeña, especialmente en Santa Marta, acompañado con pescado o mariscos."
+    }
+  },
+  {
+    "nombre": "Aracataca",
+    "pais": "Colombia",
+    "plato": {
+      "nombre": "Sancocho de Gallina",
+      "descripcion": "Un guiso tradicional hecho con pollo, yuca, papas, maíz y otros vegetales, muy popular en la región caribeña y especialmente en el Magdalena."
+    }
+  },
+  {
+    "nombre": "Medellín",
+    "pais": "Colombia",
+    "plato": {
+      "nombre": "Bandeja Paisa",
+      "descripcion": "Un plato contundente que incluye arroz, frijoles, carne molida, chicharrón, huevo frito, aguacate y arepa, característico de la región paisa."
+    }
+  },
+  {
+    "nombre": "Cúcuta",
+    "pais": "Colombia",
+    "plato": {
+      "nombre": "Cabrito",
+      "descripcion": "Un plato de carne de cabrito, muy típico de la región de Cúcuta, generalmente acompañado con arroz, papa y ensalada."
+    }
+  },
+  {
+    "nombre": "Carolina del Príncipe",
+    "pais": "Colombia",
+    "plato": {
+      "nombre": "Morcilla Paisa",
+      "descripcion": "Un tipo de morcilla, o embutido de sangre, que es muy común en la región de Antioquia, a menudo servida con arroz y arepa."
+    }
+  },
+  {
+    "nombre": "Cali",
+    "pais": "Colombia",
+    "plato": {
+      "nombre": "Salsa de Piña con Cerdo",
+      "descripcion": "Un plato típico de la capital de la salsa, Cali, que combina cerdo con una deliciosa salsa a base de piña."
+    }
+  },
+  {
+    "nombre": "Bogotá",
+    "pais": "Colombia",
+    "plato": {
+      "nombre": "Ajiaco",
+      "descripcion": "Una sopa espesa de pollo con papas, mazorca y guasca, típica de Bogotá y la región andina."
+    }
+  },
+  {
+    "nombre": "Popayán",
+    "pais": "Colombia",
+    "plato": {
+      "nombre": "Empanadas de Pipían",
+      "descripcion": "Empanadas rellenas con una mezcla de papas, especias y carne, originarias de Popayán y parte de la gastronomía tradicional del Cauca."
+    }
+  },
+  {
+    "nombre": "Pasto",
+    "pais": "Colombia",
+    "plato": {
+      "nombre": "Cuy Asado",
+      "descripcion": "Un plato tradicional en Pasto, donde el cuy es asado y servido con papas, maíz y ensalada."
+    }
+  },
+  {
+    "nombre": "Montevideo",
+    "pais": "Uruguay",
+    "plato": {
+      "nombre": "Asado",
+      "descripcion": "El asado uruguayo es una de las comidas más representativas, que consiste en carne cocida a la parrilla, generalmente acompañada con ensaladas y papas."
+    }
+  },
+  {
+    "nombre": "Salto",
+    "pais": "Uruguay",
+    "plato": {
+      "nombre": "Chivito",
+      "descripcion": "Un sandwich tradicional de Uruguay, compuesto por carne de res, queso, jamón, huevo frito, lechuga, tomate y mayonesa."
+    }
+  },
+  {
+    "nombre": "Paysandú",
+    "pais": "Uruguay",
+    "plato": {
+      "nombre": "Pascualina",
+      "descripcion": "Una tarta salada que lleva espinaca, huevos, cebolla y queso, típica de la región de Paysandú y otras zonas del país."
+    }
+  },
+  {
+    "nombre": "Maldonado",
+    "pais": "Uruguay",
+    "plato": {
+      "nombre": "Chivito al Plato",
+      "descripcion": "El chivito al plato es una versión del popular sandwich, servido en plato, con carne de res, jamón, queso, huevo frito y papas fritas."
+    }
+  },
+  {
+    "nombre": "Canelones",
+    "pais": "Uruguay",
+    "plato": {
+      "nombre": "Canelones",
+      "descripcion": "Pasta rellena de carne, espinaca o ricota, acompañada con una rica salsa de tomate, que es muy popular en la ciudad de Canelones."
+    }
+  },
+  {
+    "nombre": "Tacuarembó",
+    "pais": "Uruguay",
+    "plato": {
+      "nombre": "Torta Frita",
+      "descripcion": "Un delicioso pan frito que se disfruta con mate, típico de Tacuarembó y otras regiones del Uruguay."
+    }
+  },
+  {
+    "nombre": "Colonia del Sacramento",
+    "pais": "Uruguay",
+    "plato": {
+      "nombre": "Milanesa",
+      "descripcion": "La milanesa, una carne empanada y frita, es un plato clásico de la gastronomía uruguaya, conocido en Colonia del Sacramento y otras zonas del país."
+    }
+  },
+  {
+    "nombre": "Durazno",
+    "pais": "Uruguay",
+    "plato": {
+      "nombre": "Puchero",
+      "descripcion": "Un guiso tradicional a base de carne, vegetales y garbanzos, típico de la región central de Uruguay, como Durazno."
+    }
+  },
+  {
+    "nombre": "Rio Branco",
+    "pais": "Uruguay",
+    "plato": {
+      "nombre": "Frituras",
+      "descripcion": "Las frituras, como empanadas y chorizos, son muy comunes en la región fronteriza de Río Branco."
+    }
+  },
+  {
+    "nombre": "La Paloma",
+    "pais": "Uruguay",
+    "plato": {
+      "nombre": "Pescado a la parrilla",
+      "descripcion": "El pescado a la parrilla es muy popular en La Paloma debido a su proximidad al mar, y es acompañado con ensaladas frescas."
+    }
+  },
+  {
+    "nombre": "Buenos Aires",
+    "pais": "Argentina",
+    "plato": {
+      "nombre": "Asado",
+      "descripcion": "El asado argentino es uno de los platos más emblemáticos, con carne cocinada a la parrilla acompañada de ensaladas y papas."
+    }
+  },
+  {
+    "nombre": "Córdoba",
+    "pais": "Argentina",
+    "plato": {
+      "nombre": "Empanadas Cordobesas",
+      "descripcion": "Las empanadas cordobesas son rellenas de carne, pollo o jamón y queso, y son muy populares en la provincia de Córdoba."
+    }
+  },
+  {
+    "nombre": "Rosario",
+    "pais": "Argentina",
+    "plato": {
+      "nombre": "Fugazzetta",
+      "descripcion": "Una pizza rellena de cebolla y queso, muy común en Rosario y otras zonas del país."
+    }
+  },
+  {
+    "nombre": "Mendoza",
+    "pais": "Argentina",
+    "plato": {
+      "nombre": "Milanesa a la Napolitana",
+      "descripcion": "Una milanesa cubierta con salsa de tomate, jamón y queso, una receta muy popular en Mendoza y otras regiones de Argentina."
+    }
+  },
+  {
+    "nombre": "Tucumán",
+    "pais": "Argentina",
+    "plato": {
+      "nombre": "Tamales",
+      "descripcion": "Los tamales, hechos de maíz rellenos con carne o pollo, son una comida típica de Tucumán y otras provincias del noroeste argentino."
+    }
+  },
+  {
+    "nombre": "La Plata",
+    "pais": "Argentina",
+    "plato": {
+      "nombre": "Provoleta",
+      "descripcion": "Un queso provolone derretido, típico de las parrillas argentinas, que se disfruta especialmente en La Plata."
+    }
+  },
+  {
+    "nombre": "Mar del Plata",
+    "pais": "Argentina",
+    "plato": {
+      "nombre": "Pescado a la Parrilla",
+      "descripcion": "Mar del Plata es conocida por su marisco, especialmente el pescado a la parrilla, que es una de las especialidades más consumidas."
+    }
+  },
+  {
+    "nombre": "Salta",
+    "pais": "Argentina",
+    "plato": {
+      "nombre": "Locro",
+      "descripcion": "Un guiso tradicional a base de maíz, carne y vegetales, muy común en Salta y en otras regiones del norte argentino."
+    }
+  },
+  {
+    "nombre": "San Juan",
+    "pais": "Argentina",
+    "plato": {
+      "nombre": "Chivito",
+      "descripcion": "El chivito, un sándwich relleno de carne de cabrito, es un plato muy común en San Juan."
+    }
+  },
+  {
+    "nombre": "Neuquén",
+    "pais": "Argentina",
+    "plato": {
+      "nombre": "Cordero Patagónico",
+      "descripcion": "El cordero asado es un plato típico de Neuquén, especialmente de la región patagónica, donde la carne se cocina a la parrilla."
+    }
+  }
+]

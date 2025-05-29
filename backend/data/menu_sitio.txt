@@ -1,0 +1,272 @@
+[
+  {
+    "nombre": "Barranquilla",
+    "pais": "Colombia",
+    "sitio": "El Museo del Caribe",
+    "menu_sitio": {
+      "nombre": "Arepa de Huevo",
+      "descripcion": "Una arepa frita rellena con huevo, que se puede encontrar en los alrededores del Museo del Caribe, ideal para los visitantes que buscan algo rápido y sabroso."
+    }
+  },
+  {
+    "nombre": "Santa Marta",
+    "pais": "Colombia",
+    "sitio": "Parque Nacional Natural Tayrona",
+    "menu_sitio": {
+      "nombre": "Pescado Frito con Arroz con Coco",
+      "descripcion": "En los restaurantes cercanos al Parque Tayrona, se ofrece pescado frito acompañado de arroz con coco, un plato tradicional de la región costera."
+    }
+  },
+  {
+    "nombre": "Aracataca",
+    "pais": "Colombia",
+    "sitio": "Casa de Gabriel García Márquez",
+    "menu_sitio": {
+      "nombre": "Empanadas de Carne",
+      "descripcion": "En los alrededores de la Casa de Gabriel García Márquez, se venden empanadas rellenas de carne, que son un aperitivo tradicional muy popular en la región."
+    }
+  },
+  {
+    "nombre": "Medellín",
+    "pais": "Colombia",
+    "sitio": "Jardín Botánico",
+    "menu_sitio": {
+      "nombre": "Arepa con Queso",
+      "descripcion": "En los puestos cercanos al Jardín Botánico de Medellín, se puede disfrutar de una simple y deliciosa arepa con queso, un snack típico que gusta a los locales y turistas."
+    }
+  },
+  {
+    "nombre": "Cúcuta",
+    "pais": "Colombia",
+    "sitio": "Santuario de la Virgen de la Candelaria",
+    "menu_sitio": {
+      "nombre": "Cabrito al Horno",
+      "descripcion": "En los restaurantes cercanos al Santuario de la Virgen de la Candelaria, se ofrece el cabrito al horno, un plato típico de la región que combina la carne de cabrito con papas y ensaladas."
+    }
+  },
+  {
+    "nombre": "Carolina del Príncipe",
+    "pais": "Colombia",
+    "sitio": "Parque Natural Arví",
+    "menu_sitio": {
+      "nombre": "Morcilla",
+      "descripcion": "Cerca del Parque Natural Arví, es común encontrar morcilla, un embutido de sangre tradicionalmente servido con arroz y papas."
+    }
+  },
+  {
+    "nombre": "Cali",
+    "pais": "Colombia",
+    "sitio": "Zoológico de Cali",
+    "menu_sitio": {
+      "nombre": "Chontaduro",
+      "descripcion": "En los alrededores del Zoológico de Cali, puedes encontrar chontaduro, una fruta típica de la región, servida con sal y miel como una botana deliciosa."
+    }
+  },
+  {
+    "nombre": "Bogotá",
+    "pais": "Colombia",
+    "sitio": "La Candelaria",
+    "menu_sitio": {
+      "nombre": "Ajiaco",
+      "descripcion": "En los restaurantes de La Candelaria, se puede disfrutar de un delicioso ajiaco, una sopa espesa de pollo con papas y guasca, típica de Bogotá."
+    }
+  },
+  {
+    "nombre": "Popayán",
+    "pais": "Colombia",
+    "sitio": "Iglesia de San Francisco",
+    "menu_sitio": {
+      "nombre": "Empanadas de Pipían",
+      "descripcion": "Cerca de la Iglesia de San Francisco, se pueden encontrar empanadas de pipían, hechas de masa rellena con una mezcla de papas, carne y especias."
+    }
+  },
+  {
+    "nombre": "Pasto",
+    "pais": "Colombia",
+    "sitio": "Volcán Galeras",
+    "menu_sitio": {
+      "nombre": "Cuy Asado",
+      "descripcion": "En los puestos cercanos al Volcán Galeras, el cuy asado es una delicia popular, acompañado de papas y maíz, y se ofrece como una especialidad regional."
+    }
+  },
+  {
+    "nombre": "Montevideo",
+    "pais": "Uruguay",
+    "sitio": "Ciudad Vieja",
+    "menu_sitio": {
+      "nombre": "Milanesa",
+      "descripcion": "En los restaurantes de la Ciudad Vieja, se puede disfrutar de una milanesa, carne empanada y frita, servida comúnmente con papas o ensalada."
+    }
+  },
+  {
+    "nombre": "Salto",
+    "pais": "Uruguay",
+    "sitio": "Termas del Daymán",
+    "menu_sitio": {
+      "nombre": "Chivito",
+      "descripcion": "En los restaurantes cercanos a las Termas del Daymán, puedes probar el chivito, un sándwich tradicional uruguayo con carne de res, jamón, queso y huevo."
+    }
+  },
+  {
+    "nombre": "Paysandú",
+    "pais": "Uruguay",
+    "sitio": "Termas de Almirón",
+    "menu_sitio": {
+      "nombre": "Pascualina",
+      "descripcion": "Cerca de las Termas de Almirón, se puede disfrutar de la pascualina, una tarta salada rellena de espinaca, huevos y queso."
+    }
+  },
+  {
+    "nombre": "Maldonado",
+    "pais": "Uruguay",
+    "sitio": "Punta del Este",
+    "menu_sitio": {
+      "nombre": "Pescado a la Parrilla",
+      "descripcion": "En los restaurantes cercanos a la playa de Punta del Este, puedes disfrutar de pescado a la parrilla, especialmente merluza, un plato fresco y delicioso."
+    }
+  },
+  {
+    "nombre": "Canelones",
+    "pais": "Uruguay",
+    "sitio": "Bodega y Viñedo Pizzorno",
+    "menu_sitio": {
+      "nombre": "Chivito al Plato",
+      "descripcion": "En los restaurantes de la Bodega Pizzorno, puedes disfrutar del chivito al plato, que incluye carne de res, jamón, queso, huevo frito y papas fritas."
+    }
+  },
+  {
+    "nombre": "Tacuarembó",
+    "pais": "Uruguay",
+    "sitio": "Museo del Gaucho",
+    "menu_sitio": {
+      "nombre": "Torta Frita",
+      "descripcion": "En los alrededores del Museo del Gaucho, es común encontrar torta frita, una masa frita que se sirve como merienda acompañada de mate."
+    }
+  },
+  {
+    "nombre": "Colonia del Sacramento",
+    "pais": "Uruguay",
+    "sitio": "Barrio Histórico",
+    "menu_sitio": {
+      "nombre": "Milanesa a la Napolitana",
+      "descripcion": "En los restaurantes del Barrio Histórico de Colonia, puedes disfrutar de una milanesa a la napolitana, un plato muy popular en Uruguay."
+    }
+  },
+  {
+    "nombre": "Durazno",
+    "pais": "Uruguay",
+    "sitio": "Parque de la Hispanidad",
+    "menu_sitio": {
+      "nombre": "Puchero",
+      "descripcion": "Cerca del Parque de la Hispanidad, se puede disfrutar de un puchero, un guiso tradicional de carne, vegetales y garbanzos."
+    }
+  },
+  {
+    "nombre": "Rio Branco",
+    "pais": "Uruguay",
+    "sitio": "Puente Internacional Río Branco - Jaguarão",
+    "menu_sitio": {
+      "nombre": "Frituras",
+      "descripcion": "Cerca del Puente Internacional Río Branco, puedes disfrutar de frituras, como empanadas y chorizos, muy comunes en esta zona fronteriza."
+    }
+  },
+  {
+    "nombre": "La Paloma",
+    "pais": "Uruguay",
+    "sitio": "Faro de La Paloma",
+    "menu_sitio": {
+      "nombre": "Pescado Fresco",
+      "descripcion": "Cerca del Faro de La Paloma, puedes disfrutar de pescado fresco, especialmente el dorado, preparado a la parrilla."
+    }
+  },
+  {
+    "nombre": "Buenos Aires",
+    "pais": "Argentina",
+    "sitio": "La Boca",
+    "menu_sitio": {
+      "nombre": "Empanadas",
+      "descripcion": "En los restaurantes de La Boca, puedes disfrutar de empanadas rellenas de carne, pollo o jamón y queso, una comida rápida y deliciosa."
+    }
+  },
+  {
+    "nombre": "Córdoba",
+    "pais": "Argentina",
+    "sitio": "Catedral de Córdoba",
+    "menu_sitio": {
+      "nombre": "Locro",
+      "descripcion": "En los restaurantes cercanos a la Catedral de Córdoba, puedes disfrutar del locro, un guiso a base de maíz, carne y vegetales, muy popular en la región."
+    }
+  },
+  {
+    "nombre": "Rosario",
+    "pais": "Argentina",
+    "sitio": "Monumento a la Bandera",
+    "menu_sitio": {
+      "nombre": "Fugazzetta",
+      "descripcion": "En los restaurantes cerca del Monumento a la Bandera, puedes disfrutar de la fugazzetta, una pizza rellena de cebolla y queso, típica de Rosario."
+    }
+  },
+  {
+    "nombre": "Mendoza",
+    "pais": "Argentina",
+    "sitio": "Parque General San Martín",
+    "menu_sitio": {
+      "nombre": "Milanesa a la Napolitana",
+      "descripcion": "En los restaurantes cercanos al Parque General San Martín, puedes disfrutar de una milanesa a la napolitana, un plato tradicional argentino."
+    }
+  },
+  {
+    "nombre": "Tucumán",
+    "pais": "Argentina",
+    "sitio": "Casa Histórica de la Independencia",
+    "menu_sitio": {
+      "nombre": "Empanadas Tucumanas",
+      "descripcion": "En los restaurantes cercanos a la Casa Histórica de la Independencia, puedes probar las empanadas tucumanas, rellenas con carne, pollo o jamón y queso."
+    }
+  },
+  {
+    "nombre": "La Plata",
+    "pais": "Argentina",
+    "sitio": "Catedral de La Plata",
+    "menu_sitio": {
+      "nombre": "Provoleta",
+      "descripcion": "En los restaurantes cercanos a la Catedral de La Plata, puedes disfrutar de provoleta, queso provolone derretido, ideal para acompañar una parrillada."
+    }
+  },
+  {
+    "nombre": "Mar del Plata",
+    "pais": "Argentina",
+    "sitio": "Playa Varese",
+    "menu_sitio": {
+      "nombre": "Pescado a la Parrilla",
+      "descripcion": "En los restaurantes cercanos a Playa Varese, puedes disfrutar de pescado fresco a la parrilla, especialmente merluza, ideal después de un día en la playa."
+    }
+  },
+  {
+    "nombre": "Salta",
+    "pais": "Argentina",
+    "sitio": "Cerro San Bernardo",
+    "menu_sitio": {
+      "nombre": "Empanadas Salteñas",
+      "descripcion": "En los restaurantes cercanos al Cerro San Bernardo, puedes disfrutar de empanadas salteñas, rellenas de carne, papa y especias, típicas de la región."
+    }
+  },
+  {
+    "nombre": "San Juan",
+    "pais": "Argentina",
+    "sitio": "Valle de la Luna",
+    "menu_sitio": {
+      "nombre": "Chivito",
+      "descripcion": "En los restaurantes cercanos al Valle de la Luna, puedes disfrutar de chivito, un sándwich típico uruguayo con carne de res, jamón, queso y huevo."
+    }
+  },
+  {
+    "nombre": "Neuquén",
+    "pais": "Argentina",
+    "sitio": "Cerro Chapelco",
+    "menu_sitio": {
+      "nombre": "Cordero Patagónico",
+      "descripcion": "En los restaurantes cercanos a Cerro Chapelco, puedes disfrutar del cordero patagónico, cocinado a la parrilla, un plato típico de la región."
+    }
+  }
+]

@@ -1,0 +1,242 @@
+[
+  {
+    "nombre": "Barranquilla",
+    "pais": "Colombia",
+    "sitio": {
+      "nombre": "El Museo del Caribe",
+      "descripcion": "Un museo que ofrece una profunda mirada a la cultura caribeña, su historia, música y arte, ubicado en Barranquilla."
+    }
+  },
+  {
+    "nombre": "Santa Marta",
+    "pais": "Colombia",
+    "sitio": {
+      "nombre": "Parque Nacional Natural Tayrona",
+      "descripcion": "Un paraíso natural cerca de Santa Marta, conocido por sus playas vírgenes y paisajes montañosos, ideal para el ecoturismo."
+    }
+  },
+  {
+    "nombre": "Aracataca",
+    "pais": "Colombia",
+    "sitio": {
+      "nombre": "Casa de Gabriel García Márquez",
+      "descripcion": "La casa donde nació el escritor Gabriel García Márquez, convertida en museo, es un lugar simbólico para los amantes de la literatura."
+    }
+  },
+  {
+    "nombre": "Medellín",
+    "pais": "Colombia",
+    "sitio": {
+      "nombre": "Jardín Botánico",
+      "descripcion": "Un oasis verde en el corazón de Medellín, con una amplia variedad de flora y fauna, ideal para paseos tranquilos."
+    }
+  },
+  {
+    "nombre": "Cúcuta",
+    "pais": "Colombia",
+    "sitio": {
+      "nombre": "Santuario de la Virgen de la Candelaria",
+      "descripcion": "Un importante centro religioso en Cúcuta, que atrae tanto a fieles como a turistas por su arquitectura y su historia."
+    }
+  },
+  {
+    "nombre": "Carolina del Príncipe",
+    "pais": "Colombia",
+    "sitio": {
+      "nombre": "Parque Natural Arví",
+      "descripcion": "Ubicado cerca de Carolina del Príncipe, este parque ofrece senderos ecológicos, fauna local y vistas panorámicas impresionantes."
+    }
+  },
+  {
+    "nombre": "Cali",
+    "pais": "Colombia",
+    "sitio": {
+      "nombre": "Zoológico de Cali",
+      "descripcion": "Uno de los zoológicos más importantes de Colombia, conocido por su variedad de especies y su enfoque en la conservación de la fauna."
+    }
+  },
+  {
+    "nombre": "Bogotá",
+    "pais": "Colombia",
+    "sitio": {
+      "nombre": "La Candelaria",
+      "descripcion": "El barrio histórico de Bogotá, conocido por sus calles empedradas, arquitectura colonial y varios museos importantes como el Museo de Oro."
+    }
+  },
+  {
+    "nombre": "Popayán",
+    "pais": "Colombia",
+    "sitio": {
+      "nombre": "Iglesia de San Francisco",
+      "descripcion": "Una iglesia histórica en el centro de Popayán, famosa por su arquitectura colonial y su importancia religiosa."
+    }
+  },
+  {
+    "nombre": "Pasto",
+    "pais": "Colombia",
+    "sitio": {
+      "nombre": "Volcán Galeras",
+      "descripcion": "Un volcán activo que ofrece increíbles vistas y oportunidades para el ecoturismo y el senderismo en sus alrededores."
+    }
+  },
+  {
+    "nombre": "Montevideo",
+    "pais": "Uruguay",
+    "sitio": {
+      "nombre": "Ciudad Vieja",
+      "descripcion": "El casco histórico de Montevideo, con calles empedradas, arquitectura colonial y lugares emblemáticos como la Plaza Independencia y el Mercado del Puerto."
+    }
+  },
+  {
+    "nombre": "Salto",
+    "pais": "Uruguay",
+    "sitio": {
+      "nombre": "Termas del Daymán",
+      "descripcion": "Un complejo termal conocido por sus aguas termales curativas y sus instalaciones de spa, ideal para relajación y bienestar."
+    }
+  },
+  {
+    "nombre": "Paysandú",
+    "pais": "Uruguay",
+    "sitio": {
+      "nombre": "Termas de Almirón",
+      "descripcion": "Un popular destino termal en Paysandú, conocido por sus aguas termales que ofrecen propiedades curativas."
+    }
+  },
+  {
+    "nombre": "Maldonado",
+    "pais": "Uruguay",
+    "sitio": {
+      "nombre": "Punta del Este",
+      "descripcion": "Uno de los destinos turísticos más famosos de Uruguay, conocido por sus playas, vida nocturna, y atracciones como el Puerto y la famosa escultura 'La Mano'."
+    }
+  },
+  {
+    "nombre": "Canelones",
+    "pais": "Uruguay",
+    "sitio": {
+      "nombre": "Bodega y Viñedo Pizzorno",
+      "descripcion": "Una bodega en Canelones, conocida por su producción de vinos de alta calidad y por ofrecer visitas guiadas que incluyen degustaciones."
+    }
+  },
+  {
+    "nombre": "Tacuarembó",
+    "pais": "Uruguay",
+    "sitio": {
+      "nombre": "Museo del Gaucho",
+      "descripcion": "Un museo en Tacuarembó que rinde homenaje a la cultura gaucha de Uruguay, mostrando elementos históricos de la vida rural y el folklore."
+    }
+  },
+  {
+    "nombre": "Colonia del Sacramento",
+    "pais": "Uruguay",
+    "sitio": {
+      "nombre": "Barrio Histórico",
+      "descripcion": "Un sitio Patrimonio de la Humanidad, con calles empedradas y edificios coloniales que muestran la historia de la ciudad y su influencia portuguesa y española."
+    }
+  },
+  {
+    "nombre": "Durazno",
+    "pais": "Uruguay",
+    "sitio": {
+      "nombre": "Parque de la Hispanidad",
+      "descripcion": "Un parque en Durazno que alberga esculturas, espacios recreativos y un hermoso paisaje natural, ideal para paseos familiares."
+    }
+  },
+  {
+    "nombre": "Rio Branco",
+    "pais": "Uruguay",
+    "sitio": {
+      "nombre": "Puente Internacional Río Branco - Jaguarão",
+      "descripcion": "Un puente que conecta Uruguay con Brasil, es una atracción interesante tanto por su ubicación estratégica como por la belleza del río."
+    }
+  },
+  {
+    "nombre": "La Paloma",
+    "pais": "Uruguay",
+    "sitio": {
+      "nombre": "Faro de La Paloma",
+      "descripcion": "El emblemático faro de La Paloma, uno de los puntos más conocidos de la costa atlántica uruguaya, con vistas panorámicas del mar."
+    }
+  },
+  {
+    "nombre": "Buenos Aires",
+    "pais": "Argentina",
+    "sitio": {
+      "nombre": "La Boca",
+      "descripcion": "Uno de los barrios más emblemáticos de Buenos Aires, famoso por sus casas coloridas, la Plaza Caminito y la vibrante cultura de tango."
+    }
+  },
+  {
+    "nombre": "Córdoba",
+    "pais": "Argentina",
+    "sitio": {
+      "nombre": "Catedral de Córdoba",
+      "descripcion": "Una de las principales atracciones de Córdoba, una iglesia histórica en el centro de la ciudad, famosa por su arquitectura colonial."
+    }
+  },
+  {
+    "nombre": "Rosario",
+    "pais": "Argentina",
+    "sitio": {
+      "nombre": "Monumento a la Bandera",
+      "descripcion": "Un monumento nacional dedicado a la bandera argentina, ubicado en la costanera de Rosario, con una gran importancia histórica y arquitectónica."
+    }
+  },
+  {
+    "nombre": "Mendoza",
+    "pais": "Argentina",
+    "sitio": {
+      "nombre": "Parque General San Martín",
+      "descripcion": "Un gran parque en Mendoza, que ofrece senderos, lagos y vistas espectaculares de la ciudad y los Andes, ideal para actividades al aire libre."
+    }
+  },
+  {
+    "nombre": "Tucumán",
+    "pais": "Argentina",
+    "sitio": {
+      "nombre": "Casa Histórica de la Independencia",
+      "descripcion": "Un museo en Tucumán donde se declaró la independencia de Argentina en 1816, considerado un sitio clave en la historia del país."
+    }
+  },
+  {
+    "nombre": "La Plata",
+    "pais": "Argentina",
+    "sitio": {
+      "nombre": "Catedral de La Plata",
+      "descripcion": "Una impresionante catedral de estilo neogótico que es uno de los mayores atractivos turísticos de la ciudad de La Plata."
+    }
+  },
+  {
+    "nombre": "Mar del Plata",
+    "pais": "Argentina",
+    "sitio": {
+      "nombre": "Playa Varese",
+      "descripcion": "Una de las playas más populares de Mar del Plata, conocida por su ambiente familiar y su belleza natural."
+    }
+  },
+  {
+    "nombre": "Salta",
+    "pais": "Argentina",
+    "sitio": {
+      "nombre": "Cerro San Bernardo",
+      "descripcion": "Un cerro desde el cual se puede disfrutar de una vista panorámica de la ciudad de Salta, accesible por teleférico o caminando."
+    }
+  },
+  {
+    "nombre": "San Juan",
+    "pais": "Argentina",
+    "sitio": {
+      "nombre": "Valle de la Luna",
+      "descripcion": "Un impresionante parque natural en San Juan, famoso por sus formaciones rocosas y su paisaje lunar, ideal para el senderismo."
+    }
+  },
+  {
+    "nombre": "Neuquén",
+    "pais": "Argentina",
+    "sitio": {
+      "nombre": "Cerro Chapelco",
+      "descripcion": "Un destino popular en la Patagonia argentina, ideal para practicar deportes de invierno como el esquí, además de ofrecer paisajes naturales impresionantes."
+    }
+  }
+]
