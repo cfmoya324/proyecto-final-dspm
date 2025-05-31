@@ -1,10 +1,10 @@
 const jwt = require('jsonwebtoken');
 const { request, response } = require("express");
-const Usuario = require('../models/mongoUsuario.model')
+const Usuario = require('../models/usuario.model')
 
 
 const validarJWT = async (req = request, res = response, next) => {
-    const token = req.header('x-token');
+    const token = req.headers.authorization?.split(" ")[1]; // Bearer <token>;
 
     if (!token) {
         return res.status(401).json({
@@ -14,26 +14,19 @@ const validarJWT = async (req = request, res = response, next) => {
 
     try {
         //Valida el token
-        const {uid} = jwt.verify(token, process.env.PRIVATE_KEY_JWT);
+        const usuarioT = jwt.verify(token, process.env.PRIVATE_KEY_JWT);
 
         //console.log(uid);
-        const usuario = await Usuario.findById(uid)
+        const usuarioBD = await Usuario.find({nombre: usuarioT.uid})
 
-        if(!usuario){
+        if(!usuarioBD){
             return res.status(401).json({
                 msg: 'Token no valido - usuario no existe en BD'
             })
 
         }
 
-        if(!usuario.estado){
-            return res.status(401).json({
-                msg: 'Token no valido - usuario con estado: false'
-            })
-
-        }
-
-        req.usuario = usuario;
+        req.usuario = usuarioBD;
 
         next();
 

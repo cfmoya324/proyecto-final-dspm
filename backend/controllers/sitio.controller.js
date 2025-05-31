@@ -1,17 +1,16 @@
 const { response, request } = require('express')
-const { Heroes } = require('../models/mySqlHeroes');
-const { bdmysql } = require('../database/MySqlConnection');
+const Sitio = require("../models/sitio.model");
 const { body } = require('express-validator');
 
 
-const heroesGet = async (req, res = response) => {
+const sitioGet = async (req, res = response) => {
 
     try {
-        const unosHeroes = await Heroes.findAll();
+        const listaSitios = await Sitio.find().lean();
 
         res.json({
             ok: true,
-            data: unosHeroes
+            data: listaSitios
         });
 
     } catch (error) {
@@ -71,7 +70,7 @@ const heroeIdGet = async (req, res = response) => {
         apikey,
         page,
         limit
-       })
+    })
 
       */
 }
@@ -102,34 +101,17 @@ const heroesComoGet = async(req = request, res = response) => {
 };
 
 
-const heroesPost = async (req, res = response) => {
- 
+const sitioPost = async (req, res = response) => {
+
     try {
 
         console.log(req.body);
-
-        const { nombre, bio, img, aparicion , casa} = req.body;
-
-        const heroe = new Heroes({ nombre, bio,img, aparicion, casa });
     
-        const existeHeroe = await Heroes.findOne({ where: { nombre: nombre} });
-
-        if (existeHeroe) {
-            return res.status(400).json({ok:false,
-                msg: 'Ya existe un Heroe llamado: ' + nombre
-            })
-        }
-
-        // Guardar en BD
-        newHeroe = await heroe.save();
-
-        //console.log(newHeroe.null);
-        //Ajusta el Id del nuevo registro al Heroe
-        heroe.id = newHeroe.null;
+        const nueva = await Sitio.create(req.body);
 
         res.json({ok:true,
             mensaje:'Heroe Creado',
-            data:heroe
+            data:nueva
         });
 
     } catch (error) {
@@ -142,41 +124,17 @@ const heroesPost = async (req, res = response) => {
 }
 
 
-const heroePut = async (req, res = response) => {
-
-    const { id } = req.params;
-    const { body} = req;
-   //const { _id, password, google, correo, ...resto } = req.body;
-
-
-    console.log(id);
-    console.log(body);
-
-
-    //var condition = { where :{id: id} };
-
+const sitioPut = async (req, res = response) => {
 
     try {
+        console.log(req.body)
 
-
-        const heroe = await Heroes.findByPk(id);
-
-
-        if (!heroe) {
-            return res.status(404).json({ok:false,
-                msg: 'No existe un heroe con el id: ' + id
-            })
-        }
-
-        console.log(body)
-       
-        await heroe.update(body);
-
+        const actualizada = await Sitio.findByIdAndUpdate(req.body._id, req.body, { new: true });
 
         res.json({ok:true,
-                 msg:"Heroe actualizado",
-                 data:heroe});
-   
+                msg:"Heroe actualizado",
+                data: actualizada});
+
 
     } catch (error) {
         console.log(error);
@@ -189,40 +147,16 @@ const heroePut = async (req, res = response) => {
 
 }
 
-const heroeDelete = async (req, res = response) => {
-    const { id } = req.params;
-
-    console.log(id);
- 
-    //var condition = { where :{id: id} };
+const sitioDelete = async (req, res = response) => {
 
     try {
+        console.log(req.body)
 
-
-        const heroe = await Heroes.findByPk(id);
-        //const usuarioAutenticado = req.usuario;
-
-
-        if (!heroe) {
-            return res.status(404).json({ok:false,
-                msg: 'No existe un heroe con el id: ' + id
-            })
-        }
-
-        //Borrado Logico.
-        //await heroe.update({estado:false});
-
-        //Borrado de la BD
-        await heroe.destroy();
+        await Sitio.findByIdAndDelete(req.body);
 
         res.json({ok:true,
-            msj:"Heroe Borrado..",
-            data: heroe
-            //usuario:usuario,
-            //autenticado:usuarioAutenticado
+            msj:"Heroe Borrado.."
         });
-   
-
 
     } catch (error) {
         console.log(error);
@@ -238,10 +172,8 @@ const heroeDelete = async (req, res = response) => {
 
 
 module.exports = {
-    heroesGet,
-    heroeIdGet,
-    heroesComoGet,
-    heroesPost,
-    heroePut,
-    heroeDelete
+    sitioGet,
+    sitioPost,
+    sitioPut,
+    sitioDelete
 }
