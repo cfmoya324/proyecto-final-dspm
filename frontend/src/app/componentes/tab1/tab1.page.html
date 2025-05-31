@@ -1,0 +1,19 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-title>Países</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+  <ion-list>
+    <ion-item button *ngFor="let pais of paises" (click)="seleccionarPais(pais.nombre)">
+      <ion-thumbnail slot="start">
+        <img [src]="pais.imagen" alt="Imagen de {{ pais.nombre }}" />
+      </ion-thumbnail>
+      <ion-label>
+        <h2>{{ pais.nombre }}</h2>
+        <p>{{ pais.descripcion }}</p>
+      </ion-label>
+    </ion-item>
+  </ion-list>
+</ion-content>

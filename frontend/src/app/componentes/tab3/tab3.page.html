@@ -1,0 +1,13 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-title>Platos de las ciudades</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+  <ion-list>
+    <ion-item *ngFor="let plato of platos">
+      {{ plato.nombre }}
+    </ion-item>
+  </ion-list>
+</ion-content>
