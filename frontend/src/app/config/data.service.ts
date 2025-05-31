@@ -1,6 +1,6 @@
 import { HttpClient, HttpParams } from '@angular/common/http';
 import { Injectable } from '@angular/core';
-import { Observable } from 'rxjs';
+import { map, Observable } from 'rxjs';
 import { ENDPOINTS } from '../config/url.servicios';
 
 @Injectable({
@@ -60,5 +60,14 @@ export class DataService {
   getPlatosPorCiudades(nombresCiudades: string[]): Observable<any[]> {
     const params = new HttpParams().set('ciudades', nombresCiudades.join(','));
     return this.http.get<any[]>(ENDPOINTS.platos, { params });
+  }
+
+  autenticacion(mail: string, password: string) {
+    return this.http.post<any[]>(ENDPOINTS.auth, {mail: mail, password: password}).pipe(
+      map((data)=>{
+        console.log("Datos inicio sesión",data);
+        return data;
+      })
+    );
   }
 }

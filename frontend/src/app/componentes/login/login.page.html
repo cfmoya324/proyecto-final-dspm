@@ -1,0 +1,39 @@
+<ion-header [translucent]="true">
+  <ion-toolbar>
+    <ion-title>login</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content [fullscreen]="true">
+  <ion-header collapse="condense">
+    <ion-toolbar>
+      <ion-title size="large">Bienvenido</ion-title>
+    </ion-toolbar>
+  </ion-header>
+
+  <ion-card>
+    <ion-card-header>Iniciar sesión</ion-card-header>
+    <ion-card-content>
+      <ion-input
+        label="Correo"
+        labelPlacement="stacked"
+        type="text"
+        placeholder="Ingrese su correo"
+        (ionInput)="onInputMAIL($event)"
+        [clearInput]="true"
+        required>
+      </ion-input>
+      <ion-input
+        label="Contraseña"
+        labelPlacement="stacked"
+        type="text"
+        placeholder="Ingrese su contraseña"
+        (ionInput)="onInputPWD($event)"
+        [clearInput]="true"
+        required>
+      </ion-input>
+      <ion-button (click)="iniciarSesion()" expand="block">Ingresar</ion-button>
+    </ion-card-content>
+  </ion-card>
+
+</ion-content>
