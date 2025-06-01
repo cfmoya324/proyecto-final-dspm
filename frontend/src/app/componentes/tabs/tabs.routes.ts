@@ -3,6 +3,21 @@ import { TabsPage } from './tabs.page';
 import { LoginPage } from '../login/login.page';
 
 export const routes: Routes = [
+  //{
+  //  path: 'login',
+  //  loadComponent: () => 
+  //    import('../login/login.page').then(m => m.LoginPage),
+  //},
+  {
+    path: 'pais',
+    loadComponent: () => 
+      import('../tab1/tab1.page').then(m => m.Tab1Page),
+  },
+  {
+    path: 'pais/ciudad',
+    loadComponent: () => 
+      import('../tab2/tab2.page').then(m => m.Tab2Page),
+  },
   {
     path: 'tabs',
     component: TabsPage,
@@ -28,18 +43,5 @@ export const routes: Routes = [
         pathMatch: 'full',
       },
     ],
-  },
-  {
-    path: 'login',
-    component: LoginPage
-  },
-  {
-    path: '',
-    redirectTo: 'login',
-    pathMatch: 'full',
-  },
-  {
-    path: '**',
-    redirectTo: 'login',
-  },
+  }
 ];

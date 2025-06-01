@@ -25,6 +25,6 @@ export class Tab1Page implements OnInit {
 
   // Cambiado para usar el nombre del país como parámetro
   seleccionarPais(nombrePais: string) {
-    this.router.navigate(['/tabs/tab2', nombrePais]);
+    this.router.navigate(['tabs/tab2', nombrePais]);
   }
 }

@@ -31,7 +31,7 @@ export class LoginPage implements OnInit {
     if (this.correo !== '' && this.contraseña !== '') {
       await this.db.autenticacion(this.correo, this.contraseña).toPromise().then(
         (data: any) => {
-          this.token = data;
+          this.token = data.token;
           console.log("respuesta token:",this.token);
           localStorage.setItem('token',this.token);
         }
